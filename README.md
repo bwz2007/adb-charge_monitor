@@ -1,3 +1,6 @@
+<img width="1233" height="924" alt="image" src="https://github.com/user-attachments/assets/2427edcc-d17f-4f5a-96ec-020d6af2657a" />
+
+
 手机充电功率监测工具（ADB 无线调试 / Wi-Fi）
 
 功能
